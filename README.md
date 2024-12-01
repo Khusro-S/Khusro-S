@@ -1,3 +1,4 @@
+<!-- My lines were longer than 80 characters because of the links for the badges/icons, so I bumped up the line length limit to fit them. -->
 # Hi there, I'm Khusro Sakhi 👋
 
 ## About Me 🙋
