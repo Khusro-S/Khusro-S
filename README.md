@@ -1,13 +1,18 @@
-<!-- My lines were longer than 80 characters because of the links for the badges/icons, so I bumped up the line length limit to fit them. -->
+<!-- The ls lint check for snake_case is failing because of my GitHub username.
+Since I want this to be my profile README, I don’t really have another option
+but to let the check fail. -->
 # Hi there, I'm Khusro Sakhi 👋
 
 ## About Me 🙋
 
 ![Coding GIF](https://tinyurl.com/3cfs3df3)
 
-- 🌱 I’m a second-year undergraduate student and an aspiring web developer with a growing interest in Data Science and Artificial Intelligence.
-- 💻 Currently, I’m exploring frontend development using React, building my skills and working on projects.
-- 🚀 I’m also planning to expand into backend development and dive deeper into Data Science soon.
+- 🌱 I’m a second-year undergraduate student and an aspiring web developer with
+a growing interest in Data Science and Artificial Intelligence.
+- 💻 Currently, I’m exploring frontend development using React, building my
+skills and working on projects.
+- 🚀 I’m also planning to expand into backend development and dive deeper into
+Data Science soon.
 
 ---
 
@@ -21,7 +26,8 @@
 
 ## Let's Collaborate! 💡
 
-Feel free to check out my repositories or reach out if you're working on something exciting!
+Feel free to check out my repositories or reach out if you're working on
+something exciting!
 
 ---
 
