@@ -16,7 +16,7 @@ Data Science soon.
 
 ---
 
-## Tools and Technologies tools 🛠️
+## Tools and Technologies 🛠️
 
 | **Category** | **Technologies**                         |
 |--------------|-----------------------------------------------|
